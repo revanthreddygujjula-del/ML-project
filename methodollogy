@@ -1,0 +1,39 @@
+1. Data Collection
+   - Load marketing campaign dataset from Kaggle
+
+2. Data Preprocessing
+   - Handle missing values
+   - Remove duplicates
+   - Encode categorical variables
+   - Detect outliers
+
+3. Feature Engineering
+   - Create target variable
+   - Transform features where necessary
+
+4. Data Splitting
+   - Train-test split using stratified sampling
+
+5. Model Development
+   - Random Forest
+   - XGBoost
+   - LightGBM
+
+6. Model Evaluation
+   - Accuracy
+   - Precision
+   - Recall
+   - F1 Score
+   - ROC-AUC
+
+7. Explainability
+   - SHAP explainability analysis
+   - Feature importance analysis
+
+8. Visualization
+   - Confusion Matrix
+   - ROC Curve
+   - Feature Importance Plot
+   - Correlation Heatmap
+   - SHAP Summary Plot
+   - Model Comparison Plot
