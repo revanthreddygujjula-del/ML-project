@@ -1,0 +1,6 @@
+Marketing campaigns generate large amounts of customer and product-related data. 
+However, organizations often struggle to identify which campaigns will achieve 
+high performance. This project aims to develop supervised machine learning models 
+to predict high-performing marketing campaigns using marketing and customer-related 
+features. The study also compares different machine learning algorithms and 
+analyzes the most influential factors affecting campaign success.
